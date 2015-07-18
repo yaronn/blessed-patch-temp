@@ -1,5 +1,5 @@
 {
-  "name": "blessed",
+  "name": "blessed-patch-temp",
   "description": "A high-level terminal interface library for node.js.",
   "author": "Christopher Jeffrey",
   "version": "0.1.11",
